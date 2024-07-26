@@ -6,6 +6,13 @@
 
 /* Banner (transitions) */
 
+
+
+
+	
+	.modified{
+		font-size: 60px;
+	}
 	.banner.onload-content-fade-up .content {
 		-moz-transition: none;
 		-webkit-transition: none;
